@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Resources/icon-folder.png</file>
+    <file>Resources/check.png</file>
+    <file>Resources/icon-close.png</file>
+    <file>Resources/icon-maximize.png</file>
+    <file>Resources/icon-minimize.png</file>
+    <file>Resources/icon-restore.png</file>
+    <file>Resources/icon-settings.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>Resources/Default_Poster.png</file>
+  </qresource>
+  <qresource prefix="db">
+    <file>Resources/HomeTheatre.db</file>
+  </qresource>
+</RCC>
